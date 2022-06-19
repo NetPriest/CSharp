@@ -4,4 +4,4 @@ This is a course project for the disipline "Computer Graphics and GUI" at Plovdi
 
 !!!ATTENTION!!! This program was created by our teachers (Vassil Vassilev, Alexander Penev) and all rights and (C) goes to them. 
 
-We(the students) had to use the basic project and modify it to comply with the final evaluation requirements. 
+<h2>We(the students) had to use the basic project and modify it to comply with the final evaluation requirements. </h2>
