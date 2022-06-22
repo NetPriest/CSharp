@@ -18,17 +18,16 @@ The main goal of this app was to modify it and add new **`Shape`** elements, and
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+At this version of the program there is no installation needed. For test purposes you can download the project and open bin/Draw.exe
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This is the main screen of the program. From here you can access the graphics `Shapes` via the added buttons. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![alt text](assets/images/DrawApp.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+You can create objects by selecting one of the following options.
+![alt text](assets/images/DrawAppObjectOptions.png)
 
 ## Credits
 
